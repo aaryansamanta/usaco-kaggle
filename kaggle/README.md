@@ -1,13 +1,21 @@
 <div align="center">
 
-# 🧬 Kaggle | Applied Machine Learning
+<img src="assets/kaggle-research-banner.gif" alt="Animated Kaggle machine learning portfolio banner featuring RNA folding, cell tracking, agriculture, and Pokémon TCG AI" width="100%">
 
-**Four projects · 11 Jupyter notebooks · Original source files**
+# Kaggle · Machine Learning & Computational Experiments
 
-![Python](https://img.shields.io/badge/Python-Notebooks-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-11%20notebooks-F37626?logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-4%20projects-20BEFF?logo=kaggle&logoColor=white) ![Focus](https://img.shields.io/badge/Focus-Applied%20ML-7C3AED)
+**Four project collections · 11 original Jupyter notebooks · Python-based experimentation**
 
-[**Home**](../README.md) · [**Biohub collection**](biohub-cell-tracking/README.md) · [**Notebook index**](#-explore-the-projects) · [**Reproducibility**](#-running-the-notebooks)
+![Python](https://img.shields.io/badge/Python-Notebooks-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-11%20Notebooks-F37626?logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-Project%20Collection-20BEFF?logo=kaggle&logoColor=white) ![Topics](https://img.shields.io/badge/Topics-ML%20%7C%20Bioinformatics%20%7C%20Simulation-8B5CF6)
 
+[**Explore projects**](#-explore-the-projects) · [**Biohub notebooks**](#-biohub-cell-tracking--eight-notebooks) · [**Run notebooks**](#-running-the-notebooks) · [**Repository home**](../README.md)
+
+</div>
+
+> **Project portfolio:** Browse source notebooks and the approaches they explore. Visual animations on this page are illustrative, not recorded training runs or leaderboard results.
+
+<div align="center">
+<img src="assets/model-signals.gif" alt="Animated abstract machine-learning signal curves; illustrative visualization only" width="100%">
 </div>
 
 ---
@@ -23,7 +31,7 @@
 
 ## 🧫 Biohub Cell Tracking — Eight notebooks
 
-The collection preserves one previously included geometric-fusion notebook and seven additional supplied notebooks. Each is a separate source file; no code, outputs, or notebook metadata were changed in this packaging.
+The collection contains eight separate notebooks exploring geometric fusion, nearest-neighbor approaches, metric experiments, and inference variants. Notebook contents are preserved as provided.
 
 | Notebook | Link |
 |:--|:--|
