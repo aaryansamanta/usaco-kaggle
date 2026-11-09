@@ -6,7 +6,7 @@
 
 **Algorithms · Competitive Programming · Machine Learning**
 
-[![C++17](https://img.shields.io/badge/C%2B%2B-17-0066A1?logo=cplusplus&logoColor=white)](usaco/) [![Python](https://img.shields.io/badge/Python-Jupyter-3776AB?logo=python&logoColor=white)](kaggle/) [![USACO](https://img.shields.io/badge/USACO-9%20worked%20problems-0E7490)](usaco/README.md) [![Kaggle](https://img.shields.io/badge/Kaggle-12%20source%20notebooks-20BEFF?logo=kaggle&logoColor=white)](kaggle/)
+[![C++17](https://img.shields.io/badge/C%2B%2B-17-0066A1?logo=cplusplus&logoColor=white)](usaco/) [![Python](https://img.shields.io/badge/Python-Jupyter-3776AB?logo=python&logoColor=white)](kaggle/) [![USACO](https://img.shields.io/badge/USACO-9%20worked%20problems-0E7490)](usaco/README.md) [![Kaggle](https://img.shields.io/badge/Kaggle-11%20source%20notebooks-20BEFF?logo=kaggle&logoColor=white)](kaggle/)
 
 [**USACO Guide**](#-usaco-how-to-get-a-triple-perfect) · [**Kaggle Notebooks**](#-kaggle-original-code-notebooks) · [**Getting Started**](#-getting-started) · [**Repository Layout**](#-repository-layout)
 
@@ -19,7 +19,7 @@
 | Track | Explore | Source |
 |:--|:--|:--|
 | **USACO — algorithms** | Bronze, Silver, and Gold solutions, detailed write-ups, complexity analysis, sample tests and stress-test utilities | [Full study guide](usaco/README.md) |
-| **Kaggle — applied ML** | Twelve unmodified `.ipynb` files, with their source filenames and notebook contents preserved | [Explore Kaggle overview](kaggle/README.md) |
+| **Kaggle — applied ML** | Eleven unmodified `.ipynb` files, with their source filenames and notebook contents preserved | [Explore Kaggle overview](kaggle/README.md) |
 
 ## 🎯 USACO: How to Get a Triple Perfect
 
@@ -52,11 +52,11 @@ The notebooks below are **byte-for-byte copies of the original notebook files pr
 | Project | Technical focus | Original notebook |
 |:--|:--|:--|
 | **Stanford RNA 3D Folding** | RNA structure modeling | [Open notebook](kaggle/stanford-rna-3d-folding/stanford-rna-3d-folding-part-2-protenix-tbm.ipynb) |
-| **Biohub Cell Tracking** | Cell tracking, geometric fusion, nearest-neighbor baseline, metric experiments, and inference variants | [Browse all nine notebooks](kaggle/biohub-cell-tracking/README.md) |
+| **Biohub Cell Tracking** | Cell tracking, geometric fusion, nearest-neighbor baseline, metric experiments, and inference variants | [Browse all eight notebooks](kaggle/biohub-cell-tracking/README.md) |
 | **Kaggriculture** | Agricultural machine-learning experiments | [Open notebook](kaggle/kaggriculture/84-84-base-public-holdout-v14-clone-preemption.ipynb) |
 | **Pokémon TCG AI Battle Challenge** | Gameplay simulation and matchup analysis | [Open notebook](kaggle/pokemon-tcg-ai/simple-baseline-matchup-tests.ipynb) |
 
-**Biohub notebook collection:** The Biohub folder includes the previously packaged `biohub-geometric-fusion.ipynb` plus eight additional, separately uploaded notebooks. All are preserved under their original filenames.
+**Biohub notebook collection:** The Biohub folder includes the previously packaged `biohub-geometric-fusion.ipynb` plus seven additional, separately uploaded notebooks. All are preserved under their original filenames.
 
 **Reproducibility note:** Kaggle datasets, packages, accelerators, or external assets may be required. The notebooks were not executed or independently validated when this repository was assembled.
 
