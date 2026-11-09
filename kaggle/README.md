@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/kaggle-research-banner.gif" alt="Animated Kaggle machine learning portfolio banner featuring RNA folding, cell tracking, agriculture, and Pokémon TCG AI" width="100%">
+<img src="assets/kaggle-signal-banner.gif" alt="Subtle animated data signal banner" width="100%">
 
 # Kaggle · Machine Learning & Computational Experiments
 
@@ -12,11 +12,8 @@
 
 </div>
 
-> **Project portfolio:** Browse source notebooks and the approaches they explore. Visual animations on this page are illustrative, not recorded training runs or leaderboard results.
+> **Project portfolio:** Browse source notebooks and the approaches they explore. The animated signal banner is illustrative, not recorded training runs or leaderboard results.
 
-<div align="center">
-<img src="assets/model-signals.gif" alt="Animated abstract machine-learning signal curves; illustrative visualization only" width="100%">
-</div>
 
 ---
 
