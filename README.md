@@ -19,7 +19,7 @@
 | Track | Explore | Source |
 |:--|:--|:--|
 | **USACO — algorithms** | Bronze, Silver, and Gold solutions, detailed write-ups, complexity analysis, sample tests and stress-test utilities | [Full study guide](usaco/README.md) |
-| **Kaggle — applied ML** | Twelve unmodified `.ipynb` files, with their source filenames and notebook contents preserved | [Browse notebooks](kaggle/) |
+| **Kaggle — applied ML** | Twelve unmodified `.ipynb` files, with their source filenames and notebook contents preserved | [Explore Kaggle overview](kaggle/README.md) |
 
 ## 🎯 USACO: How to Get a Triple Perfect
 
@@ -89,6 +89,7 @@ usaco-kaggle/
 │   ├── tools/                # Sample and stress-test utilities
 │   └── LICENSE
 └── kaggle/
+    ├── README.md             # Kaggle overview and notebook index
     ├── stanford-rna-3d-folding/
     ├── biohub-cell-tracking/
     ├── kaggriculture/
